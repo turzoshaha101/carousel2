@@ -1,0 +1,38 @@
+#one body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(202, 176, 202);
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+}
+
+
+.item{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    
+}
+
+
+
+.htag{
+    font-family: 'Rubik Moonrocks',cursive;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+
+}
+
+#two body{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    <link href="https://fonts.googleapis.com/css2?family=Titan+One&display=swap" rel="stylesheet">
+}
+
+.htag2{
+    font-family: 'Titan One', cursive;
+    font-size: 40px;
+    color: rgb(9, 255, 0);
+    text-align: center;
+}
